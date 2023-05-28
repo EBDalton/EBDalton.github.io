@@ -46,7 +46,8 @@ a:active {
 .bioCenter {
   margin: left;
   width: 40%;
-  padding: 70px;
+  padding-top: 100px;
+  padding-left: 200px;
   text-align: left;
   font-weight: bold;
   font-size: 30px;
@@ -63,15 +64,7 @@ a:active {
 .image {
   flex: 50%;
   float: right;
-  padding: 70px;
+  padding-top: 100px;
+  padding-right: 200px;
 
-}
-.side {
-  float: left;
-  padding: 5px;
-}
-.sideParent::after {
-  content: "";
-  clear: both;
-  display: table;
 }
