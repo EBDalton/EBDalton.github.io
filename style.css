@@ -66,3 +66,12 @@ a:active {
   padding: 70px;
 
 }
+.side {
+  float: left;
+  padding: 5px;
+}
+.sideParent::after {
+  content: "";
+  clear: both;
+  display: table;
+}
