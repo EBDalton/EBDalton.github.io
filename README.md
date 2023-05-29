@@ -1,2 +1,1 @@
-# Writers Website
-##### or something
+# Go to ebdalton.github.io to view the site
